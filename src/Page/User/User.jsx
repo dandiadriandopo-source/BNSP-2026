@@ -82,13 +82,6 @@ const User = () => {
               </h2>
               <p className="text-secondary">Dashboard Administrator</p>
             </div>
-            <Button
-              variant="warning"
-              onClick={handleTambah}
-              className="mb-4 shadow-sm"
-            >
-              Tambah user +
-            </Button>
           </div>
           <Row className="px-4">
             <div className="d-flex gap-2">
